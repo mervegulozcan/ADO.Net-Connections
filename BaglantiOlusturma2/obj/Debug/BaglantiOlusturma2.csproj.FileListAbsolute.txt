@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\bin\Debug\BaglantiOlusturma2.exe.config
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\bin\Debug\BaglantiOlusturma2.exe
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\bin\Debug\BaglantiOlusturma2.pdb
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\obj\Debug\BaglantiOlusturma2.Form1.resources
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\obj\Debug\BaglantiOlusturma2.Properties.Resources.resources
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\obj\Debug\BaglantiOlusturma2.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\obj\Debug\BaglantiOlusturma2.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\obj\Debug\BaglantiOlusturma2.exe
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\obj\Debug\BaglantiOlusturma2.pdb
+C:\Users\Section2\Desktop\NT_ADO.NET_1\BaglantiOlusturma2\obj\Debug\BaglantiOlusturma2.csprojResolveAssemblyReference.cache

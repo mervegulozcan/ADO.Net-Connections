@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\bin\Debug\ADO.Net_Disconnected.exe.config
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\bin\Debug\ADO.Net_Disconnected.exe
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\bin\Debug\ADO.Net_Disconnected.pdb
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\obj\Debug\ADO.Net_Disconnected.csprojResolveAssemblyReference.cache
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\obj\Debug\ADO.Net_Disconnected.Form1.resources
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\obj\Debug\ADO.Net_Disconnected.Properties.Resources.resources
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\obj\Debug\ADO.Net_Disconnected.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\obj\Debug\ADO.Net_Disconnected.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\obj\Debug\ADO.Net_Disconnected.exe
+C:\Users\Section2\Desktop\NT_ADO.NET_1\ADO.Net_Disconnected\obj\Debug\ADO.Net_Disconnected.pdb
